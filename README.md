@@ -1,4 +1,4 @@
-# Guess the Number
+# Piggy Game
 Piggy Game is a two-player game where players take turns in rolling a dice to accumulate points. The first player to reach 100 points wins. Players can choose to deposit their temporary points into a piggy bank to make them permanent, but this will make them lose their turn. Rolling a 1 will cause the player to lose all their temporary points and their turn.
 
 ## Features
